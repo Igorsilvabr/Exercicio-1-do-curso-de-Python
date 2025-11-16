@@ -12,4 +12,4 @@ O conceito mais importante que eu aprendi foi o Controle de Fluxo e o Aninhament
 
 
 
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlibmtjNHl0MWtodzVkN29rdjRrM3l6cHo5ZDh2ZDByNjUxMjRqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif)
+![Cowboy Bebop Eating GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlibmtjNHl0MWtodzVkN29rdjRrM3l6cHo5ZDh2ZDByNjUxMjRqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif)
